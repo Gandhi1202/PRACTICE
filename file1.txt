@@ -1,3 +1,49 @@
 hi friends
 baagunnara?
 avunu bagunna
+
+
+PRACTICE THESE QUESTIONS FOR BETTER UNDERSTANDING ON PROBLEM SOLVING
+
+
+
+1. Create a function that checks if a given string is a palindrome (reads the same forwards and backwards). Ignore spaces and punctuation.
+
+2. Write a method that takes two strings and checks if they are anagrams of each other (e.g., "listen" and "silent").
+
+3. Write a method that takes an array of integers and returns the largest element. Handle cases where the array might be empty.
+
+4.Implement a function that merges two sorted arrays into a single sorted array.
+
+5. Write a recursive method to compute the factorial of a given non-negative integer.
+
+6. Create a method that counts the number of vowels and consonants in a given string.
+
+7. Write a method that reverses a given string without using built-in reverse methods.
+
+8. Implement a method to find and return duplicate elements in an array of integers.
+
+9. Create a method that checks if a given number is prime.
+
+10. Write a method that counts the number of words in a given string. A word is defined as any sequence of characters separated by whitespace.
+
+11. Write a method that compresses a string using the counts of repeated characters (e.g., "aabcccccaaa" becomes "a2b1c5a3").
+
+12. Create a method that finds the first non-repeating character in a string. Use a Map to track character frequencies.
+
+13. Write a method that takes two lists of integers and returns a Set<Integer> containing the intersection of the two lists.
+
+14. Create a method that takes a List<Integer> and removes duplicates using a Set, then returns the modified list.
+
+15. Given a list of integers, write a method that returns a Set<Integer> containing only the unique elements from the list.
+
+
+--------------------------------------------------------------------------------------
+
+TRY TO SOLVE THE PROBLEMS WITHOUT LOOKING AT SOLUTIONS.
+
+Consider edge cases in your implementations.
+
+If possible, write unit tests for your methods to ensure correctness.
+
+--------------------------------------------------------------------------------------
