@@ -47,3 +47,56 @@ Consider edge cases in your implementations.
 If possible, write unit tests for your methods to ensure correctness.
 
 --------------------------------------------------------------------------------------
+
+Do these Java 8 based problems while learnign those concepts
+
+
+1. Stream Filtering
+Question: Given a list of integers, use streams to filter out the even numbers and collect the results into a new list.
+
+Concepts: Streams, filter, collect.
+
+2. Map and Reduce
+Question: Write a method that takes a list of strings and returns the total length of all strings combined using streams.
+
+Concepts: Map, reduce, stream operations.
+
+3. Optional Handling
+Question: Create a method that takes an Optional<String> and returns the string if present; otherwise, it returns "Default Value".
+
+Concepts: Optional, isPresent, orElse.
+
+4. GroupingBy
+Question: Given a list of people (with name and age), group them by age and return a map where the key is the age and the value is a list of names.
+
+Concepts: Streams, Collectors.groupingBy.
+
+5. FlatMap
+Question: Given a list of lists of integers, flatten them into a single list using streams.
+
+Concepts: FlatMap, stream flattening.
+
+6. Finding Max/Min
+Question: Write a method that finds the longest string in a list of strings using streams.
+
+Concepts: Stream operations, max, Comparator.
+
+7. Distinct Elements
+Question: Given a list of integers, return a list of distinct elements while preserving the original order.
+
+Concepts: Stream distinct, LinkedHashSet for order preservation.
+
+8. ForEach with Consumer
+Question: Iterate through a list of integers and print each one using a forEach method with a lambda expression.
+
+Concepts: forEach, Consumer, lambda expressions.
+
+9. Find First
+Question: Given a list of employees, find the first employee whose age is greater than 30 using streams.
+
+Concepts: Stream filter, findFirst.
+
+10. Collecting Results
+Question: Write a method that collects the names of all employees into a single string separated by commas.
+
+Concepts: Collectors.joining, stream.
