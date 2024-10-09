@@ -1,11 +1,4 @@
-hi friends
-baagunnara?
-avunu bagunna
-
-
 PRACTICE THESE QUESTIONS FOR BETTER UNDERSTANDING ON PROBLEM SOLVING
-
-
 
 1. Create a function that checks if a given string is a palindrome (reads the same forwards and backwards). Ignore spaces and punctuation.
 
