@@ -94,3 +94,18 @@ Concepts: Stream filter, findFirst.
 Question: Write a method that collects the names of all employees into a single string separated by commas.
 
 Concepts: Collectors.joining, stream.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Create a Java program that defines a class that extends Thread. Override the run() method to print numbers from 1 to 10 with a delay of 500 milliseconds between each number.
+Create an instance of this class and start the thread.
+
+2. Implement a Runnable class that prints the current thread name and a countdown from 5 to 1 with a delay of 1 second.
+Create multiple threads using this class and start them.
+
+3. Write a program that reads data from a text file and stores it in a List. Each line of the file should be a separate entry in the list.
+After reading, write the contents of the list to a new text file.
+
+4. Given a List of integers, write a method that returns a new List containing the squares of the original integers using Java Streams.
+Implement a method to find the sum of all squared values in the new list.
+
+5. Create a program that reads a CSV file (e.g., name, age, city) and stores the data in a list of custom objects (e.g., Person class).
+Implement methods to filter and sort the list based on age or city.
